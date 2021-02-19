@@ -1,6 +1,7 @@
 ### Hello! 👋
 
 Master's course majoring in smart ICT convergence engineering at KU Univ. 
+I'm interested in machine learning and data engineering !
 
 Usually Do...
 📖 🎬 🍝
