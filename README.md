@@ -1,5 +1,6 @@
 ### Hello! 👋
 
+SKILLS
 - ![color badge](https://img.shields.io/badge/Skill-PYTHON-red)🌟🌟🌟
 - ![color badge](https://img.shields.io/badge/Skill-pytorch-orange)🌟🌟🌟
 - ![color badge](https://img.shields.io/badge/Skill-MySQL-green)🌟🌟
