@@ -1,5 +1,7 @@
 ### Hello! 👋
 
+Master's course majoring in smart ICT convergence engineering at KU Univ. 
+
 Usually Do...
 📖 🎬 🍝
 
