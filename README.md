@@ -1,9 +1,9 @@
 ### Hello! 👋
 
-![color badge](https://img.shields.io/badge/Skill-PYTHON-red)
-![color badge](https://img.shields.io/badge/Skill-pytorch-orange)
-![color badge](https://img.shields.io/badge/Skill-MySQL-green)
-![color badge](https://img.shields.io/badge/Skill-JAVA-blue)
+-![color badge](https://img.shields.io/badge/Skill-PYTHON-red)🌟🌟🌟
+-![color badge](https://img.shields.io/badge/Skill-pytorch-orange)🌟🌟🌟
+-![color badge](https://img.shields.io/badge/Skill-MySQL-green)🌟🌟
+-![color badge](https://img.shields.io/badge/Skill-JAVA-blue)🌟
 
 <!--
 **dmswl0707/dmswl0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
