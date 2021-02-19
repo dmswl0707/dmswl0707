@@ -4,7 +4,7 @@ Usually Do...
 📖 🎬 🍝
 
 Usually Use...
-window = Mac Os  > linux 
+Window = Mac Os  > Linux 
 
 SKILLS
 - ![color badge](https://img.shields.io/badge/Skill-PYTHON-red) 🌟🌟🌟
