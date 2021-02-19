@@ -1,7 +1,7 @@
 ### Hello! 👋
 
---Master's course student majoring in smart ICT convergence engineering at KU Univ. 
---I'm interested in machine learning and data science!
+- Master's course student majoring in smart ICT convergence engineering at KU Univ. 
+- I'm interested in machine learning and data science!
 
 Usually Do...
 📖 🎬 🍝
