@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-https:--img.shields.io-static-v1?label=<LABEL>&message=<Python>&color=<BLUE>
+https://img.shields.io/badge/<skill>-<Python>-<red>
+
 
 
 <!--
