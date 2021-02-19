@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-https://img.shields.io/badge/<skill>-<Python>-<red>
+https://img.shields.io/badge/skill-PYTHON-red
 
 
 
