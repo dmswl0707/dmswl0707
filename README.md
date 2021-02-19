@@ -1,6 +1,7 @@
 ### Hello! 👋
 
-![color badge](https://img.shields.io/badge/Skill-PYTHON-<RED>)
+![color badge](https://img.shields.io/badge/Skill-PYTHON-red)
+![color badge](https://img.shields.io/badge/Skill-JAVA-blue)
 
 <!--
 **dmswl0707/dmswl0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
