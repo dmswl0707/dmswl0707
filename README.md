@@ -1,4 +1,4 @@
-# Hello! I am EUNJI_CHOI 👋
+<img src="https://HELLO, I am EUNJI_CHOI.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <p align = "center">Master's course student majoring in smart ICT convergence engineering at KU Univ.</p>  
 <p align = "center">I'm interested in machine learning and data science!</p>
