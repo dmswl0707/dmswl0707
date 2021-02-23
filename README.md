@@ -6,13 +6,13 @@
 
 
 
-<p align = "center">**Usually Do...**
+<p align = "center"> **Usually Do...**
 📖 🎬 🍝  </p>
 
 
 
 
-<p align = "center">**Usually Use...**
+<p align = "center"> **Usually Use...**
 Window = Mac Os  > Linux  </p>
 
 
