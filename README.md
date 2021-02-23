@@ -1,6 +1,6 @@
 # Hello! I am EUNJI_CHOI 👋
 
-<p align = "center">Master's course student majoring in smart ICT convergence engineering at KU Univ. 
+<p align = "center">Master's course student majoring in smart ICT convergence engineering at KU Univ.   
 I'm interested in machine learning and data science!</p>
 
 **Usually Do...**
