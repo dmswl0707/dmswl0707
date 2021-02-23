@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HELLO%20I'm EUNJI&fontSize=90" />
 
 
 <p align = "center">Master's course student majoring in smart ICT convergence engineering at KU Univ.</p>  
