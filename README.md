@@ -4,12 +4,16 @@
 <p align = "center">I'm interested in machine learning and data science!</p>
 
 
-**Usually Do...**
-📖 🎬 🍝  
 
 
-**Usually Use...**
-Window = Mac Os  > Linux   
+<p align = "center">**Usually Do...**
+📖 🎬 🍝  </p>
+
+
+
+
+<p align = "center">**Usually Use...**
+Window = Mac Os  > Linux  </p>
 
 
 
