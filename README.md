@@ -1,12 +1,12 @@
 # Hello! I am EUNJI_CHOI 👋
 
- Master's course student majoring in smart ICT convergence engineering at KU Univ. 
-- I'm interested in machine learning and data science!
+Master's course student majoring in smart ICT convergence engineering at KU Univ. 
+I'm interested in machine learning and data science!
 
-###Usually Do...
+###Usually Do
 📖 🎬 🍝
 
-###Usually Use...
+###Usually Use
 Window = Mac Os  > Linux 
 
 <h3 align = "center"> ⌨️SKILLS🕹 </h3>
@@ -14,6 +14,7 @@ Window = Mac Os  > Linux
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a> 🌟🌟🌟
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 🌟🌟
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a> 🌟</p>
+
 
 
 
