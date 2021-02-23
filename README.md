@@ -1,13 +1,15 @@
 # Hello! I am EUNJI_CHOI 👋
 
-<p align = "center">Master's course student majoring in smart ICT convergence engineering at KU Univ.   
+<p align = "center">Master's course student majoring in smart ICT convergence engineering at KU Univ.      
 I'm interested in machine learning and data science!</p>
 
 **Usually Do...**
 📖 🎬 🍝
 
+
 **Usually Use...**
 Window = Mac Os  > Linux 
+
 
 <h3 align = "center"> ⌨️SKILLS🕹 </h3>
 <p align = "center"> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 🌟🌟🌟
