@@ -5,15 +5,14 @@
 
 
 
-
-<p align = "center"> **Usually Do...**
-📖 🎬 🍝  </p>
-
+**Usually Do...**
+📖 🎬 🍝  
 
 
 
-<p align = "center"> **Usually Use...**
-Window = Mac Os  > Linux  </p>
+
+**Usually Use...**
+Window = Mac Os  > Linux
 
 
 
