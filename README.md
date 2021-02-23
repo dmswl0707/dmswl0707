@@ -3,10 +3,10 @@
 Master's course student majoring in smart ICT convergence engineering at KU Univ. 
 I'm interested in machine learning and data science!
 
-###Usually Do
+**Usually Do...**
 📖 🎬 🍝
 
-###Usually Use
+**Usually Use...**
 Window = Mac Os  > Linux 
 
 <h3 align = "center"> ⌨️SKILLS🕹 </h3>
