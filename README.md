@@ -9,9 +9,9 @@ Usually Do...
 Usually Use...
 Window = Mac Os  > Linux 
 
-SKILLS
+<h3 align = "center"> SKILLS </h3>
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 🌟🌟🌟
-- ![color badge](https://img.shields.io/badge/Skill-pytorch-orange) 🌟🌟🌟
+- <img src="https://img.shields.io/badge/Pytorch-3766AB?style=flat-square&logo=Pytorch&logoColor=white"/></a> 🌟🌟🌟
 - ![color badge](https://img.shields.io/badge/Skill-MySQL-green) 🌟🌟
 - ![color badge](https://img.shields.io/badge/Skill-JAVA-blue) 🌟
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
