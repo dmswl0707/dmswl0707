@@ -2,7 +2,7 @@
 
 
 <p align = "center">Master's course student majoring in smart ICT convergence engineering at KU Univ.</p>  
-<p align = "center">I'm interested in machine learning and data science!</p>
+<p align = "center">I'm interested in Machine learning and Datascience in Recommendation System!</p>
 
 
 
