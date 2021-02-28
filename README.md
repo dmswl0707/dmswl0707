@@ -24,6 +24,9 @@ Window = Mac Os  > Linux
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 🌟🌟
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a> 🌟</p>
 
+<h3 align = "center"> Study Log </h3>
+https://www.notion.so/EUNJI_-Blog-8e4169d3a26e41d6b4b0e132e63605d6
+
 <h3 align = "center"> CONTACT </h3>
 <p align = "center"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Inastagram&logoColor=white&link=https://www.instagram.com/eun2_2i/"/></a> https://www.instagram.com/eun2_2i/</p>
 <p align = "center"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=c950707@gmail.com"/></a> c950707@gmail.com</p>
