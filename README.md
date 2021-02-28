@@ -24,7 +24,7 @@ Window = Mac Os  > Linux
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 🌟🌟
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a> 🌟</p>
 
-<h3 align = "center"> Study Log </h3>
+<h3 align = "center"> STUDY LOG </h3>
 <p align = "center">https://www.notion.so/EUNJI_-Blog-8e4169d3a26e41d6b4b0e132e63605d6</p>
 
 <h3 align = "center"> CONTACT </h3>
