@@ -1,8 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HELLO%20I'M EUNJI&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Account%20 info&fontSize=55" />
 
 
 <p align = "center">Master's course student majoring in smart ICT convergence engineering at KU Univ.</p>  
 <p align = "center">I'm interested in ML/DL in Recommendation System!</p>
+
 
 
 <h3 align = "center"> ⌨️SKILLS🕹 </h3>
