@@ -5,24 +5,12 @@
 <p align = "center">I'm interested in ML/DL and Datascience in Recommendation System!</p>
 
 
-
-**Usually Do...**
-📖 🎬 🍝  
-
-
-
-
-**Usually Use...**
-Window = Mac Os  > Linux
-
-
-
-
 <h3 align = "center"> ⌨️SKILLS🕹 </h3>
 <p align = "center"> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 🌟🌟🌟
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a> 🌟🌟🌟
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 🌟🌟
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a> 🌟</p>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a> 🌟
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a> </p>
 
 <h3 align = "center"> STUDY LOG </h3>
 <p align = "center">https://www.notion.so/EUNJI_-Blog-8e4169d3a26e41d6b4b0e132e63605d6</p>
