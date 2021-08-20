@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Account%20 info&fontSize=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Account%20 info&fontSize=55" />
 
 
 <p align = "center">Master's course student majoring in smart ICT convergence engineering at KU Univ.</p>  
