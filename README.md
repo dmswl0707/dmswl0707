@@ -1,11 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Account%20 info&fontSize=55" />
 
 
-<p align = "center">Master's course student majoring in smart ICT convergence engineering at KU Univ.</p>  
-<p align = "center">I'm interested in ML/DL in Recommendation System!</p>
-
-
-
 <h3 align = "center"> ⌨️SKILLS🕹 </h3>
 <p align = "center"> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>
