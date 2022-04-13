@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Account%20 info&fontSize=55" />
 
-<p align = "center"> Hello, This is personal account for side project or study.
-</p>
+<p align = "center"> Hello, This is personal account for side project or study. </p>. 
+
+
 
 
 <h3 align = "center"> ⌨️SKILLS🕹 </h3>
